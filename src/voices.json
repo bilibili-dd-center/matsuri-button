@@ -85,7 +85,7 @@
             "categoryName": "2",
             "categoryDescription": {
                 "zh-CN": "打招呼",
-                "ja-JP": "もえ"
+                "ja-JP": "挨拶"
             },
             "voiceList": [
                 {
@@ -166,7 +166,7 @@
             "categoryName": "3",
             "categoryDescription": {
                 "zh-CN": "通用",
-                "ja-JP": "もえ"
+                "ja-JP": "その他"
             },
             "voiceList": [
                 {
@@ -367,7 +367,7 @@
             "categoryName": "4",
             "categoryDescription": {
                 "zh-CN": "语气词",
-                "ja-JP": "もえ"
+                "ja-JP": "感動詞"
             },
             "voiceList": [
                 {
@@ -552,7 +552,7 @@
             "categoryName": "5",
             "categoryDescription": {
                 "zh-CN": "名言",
-                "ja-JP": "もえ"
+                "ja-JP": "名言"
             },
             "voiceList": [
                 {
@@ -753,7 +753,7 @@
             "categoryName": "6",
             "categoryDescription": {
                 "zh-CN": "清楚祭妹",
-                "ja-JP": "もえ"
+                "ja-JP": "清楚なまつり"
             },
             "voiceList": [
                 {
@@ -794,7 +794,7 @@
             "categoryName": "7",
             "categoryDescription": {
                 "zh-CN": "目力夏哥",
-                "ja-JP": "もえ"
+                "ja-JP": "目力まつり"
             },
             "voiceList": [
                 {
@@ -883,7 +883,7 @@
             "categoryName": "8",
             "categoryDescription": {
                 "zh-CN": "唱歌",
-                "ja-JP": "もえ"
+                "ja-JP": "歌"
             },
             "voiceList": [
                 {
@@ -924,7 +924,7 @@
             "categoryName": "9",
             "categoryDescription": {
                 "zh-CN": "模仿秀",
-                "ja-JP": "もえ"
+                "ja-JP": "モノマネ"
             },
             "voiceList": [
                 {
