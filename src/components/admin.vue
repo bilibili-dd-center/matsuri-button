@@ -115,7 +115,7 @@
                 this.voices.push(model)
             },
             submitConfig() {
-                axios.post('http://towa.matsuri.best/api/submit', {
+                axios.post('http://natsuiromatsuri.moe/api/submit', {
                     voices: this.voices
                 })
             },
@@ -127,7 +127,7 @@
                 let config = {
                     headers: {'Content-Type': 'multipart/form-data'}
                 };
-                axios.post("http://towa.matsuri.best/api/upload", form, config).then(
+                axios.post("http://natsuiromatsuri.moe/api/upload", form, config).then(
                     response => (console.log(response.data))
                 );
 
